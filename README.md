@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on writing a textbook regarding "Numerical Methods in Macroeconomics" in Japanese.
+I will upload the code here anytime soon (hopefully..).
+
 <!--
 **TomoakiYamada/TomoakiYamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
