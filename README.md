@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm currently working on writing a textbook regarding "Numerical Methods in Macroeconomics" in Japanese.
-Hopefully, I will upload the code written in Julia here anytime soon.
+I'm writing a textbook entitled "Quantitative Macroeconomics and Numerical Computation" in Japanese.
+I will upload the code written in Fortran/MATLAB/Julia/Python here anytime soon.
 
 <!--
 **TomoakiYamada/TomoakiYamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
