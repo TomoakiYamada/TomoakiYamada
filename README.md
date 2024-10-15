@@ -3,7 +3,7 @@
 I am the author of a Japanese textbook titled "Quantitative Macroeconomics and Numerical Computation (co-authored with S.Kitao and T.Sunakawa)".
 All the codes are available from https://quant-macro-book.github.io/
 
-北尾早霧・砂川武貴・山田知明『[定量的マクロ経済学と数値計算](https://www.nippyo.co.jp/shop/book/9287.html)』日本評論社、発売中！
+北尾早霧・砂川武貴・山田知明『[定量的マクロ経済学と数値計算](https://www.nippyo.co.jp/shop/book/9287.html)』日本評論社、発売中!!
 
 教科書で使用しているコードは[こちら](https://quant-macro-book.github.io/)からダウンロード可能です。
 
